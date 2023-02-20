@@ -20,4 +20,4 @@ export default function BookingPage() {
             <ReservationForm availableTimes={availableTimes} updateTimes={dispatch}/>
         </>
     );
-}
+} 
