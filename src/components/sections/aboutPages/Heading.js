@@ -8,4 +8,4 @@ export default function Heading() {
             </div>
         </header>
     );
-}
+}  
