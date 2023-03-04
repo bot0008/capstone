@@ -12,4 +12,4 @@ export default function Navigation(props) {
             <Link className="hover-effect" to="/login"><h1>Login</h1></Link>
         </menu>
     );
-}
+} 

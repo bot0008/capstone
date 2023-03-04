@@ -26,4 +26,4 @@ export default function Navbar() {
             {navbarOpen ? <Navigation device="mobile" /> : ""}
         </nav>
     );
-}
+} 
